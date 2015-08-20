@@ -1,5 +1,9 @@
 ## Welcome to GitHub Training
 
+You'll use this repo with Wheelhouse's GitHub training. When you're asked questions about a repository, this is where you'll find the answers. In addition, during the labs you can make changes directly on this repository and the changes will be reflected on Wheelhouse once they've been performed correctly. This way you get feedback about the work you've done.
+
+We've also included instructions for the labs here, so if you're ever stuck during one you can take a look at the files in the "instructions" folder.
+
 ## Class Goals
 
 During this class, you will learn:
@@ -19,7 +23,7 @@ Here are the activities you will complete in this class. If you get stuck or hav
 6. Merge your Pull Request. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/merge-your-pull-request.md)
 7. Fork this repository.
 8. Clone this repository to your desktop.  [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/clone-a-repo.md)
-9. Make a change to your bio using the desktop apps. [Instructions] (https://github.com/certify/template-everyone/blob/master/instructions/make-changes-on-desktop.md)
+9. Make a change to your bio using the desktop apps. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/make-changes-on-desktop.md)
 10. Create a new file using the desktop apps. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/new-file-on-desktop.md)
 11. Push your changes to GitHub. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/push-changes-desktop.md)
 12. Merge your changes. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/merge-your-pull-request.md)
